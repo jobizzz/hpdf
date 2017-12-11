@@ -39,7 +39,7 @@ Installation
 
     Create a folder hpdftask mkdir hpdftask
     Navigate to that folder cd hpdftask
-    Clone this repository git clone https://github.com/jobizzz/MBook.git
+    Clone this repository git clone https://github.com/jobizzz/hpdf.git
     Navigate into hpdf cd hpdf
     Install all the nodemodules npm install
     Run npm run start
