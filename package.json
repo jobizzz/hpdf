@@ -12,6 +12,11 @@
   "dependencies": {
     "express": "^4.14.0",
     "morgan": "^1.7.0",
-    "nodemon": "^1.12.5"
+    "nodemon": "^1.12.5",
+    "cookie-parser": "*",
+    "body-parser": "*",
+    "https": "*",
+    "request": "*",
+    "path": "*"
   }
 }
